@@ -1,0 +1,181 @@
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+.navbar {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.navbar-brand img {
+    width: 200px;
+}
+
+.navbar-nav a {
+    color: white !important;
+    font-weight: 600;
+}
+
+.jumbotron {
+    background-image: url("../images/fiber.jpg");
+    background-size: cover;
+    height: 700px;
+
+}
+
+
+.jumbotron h1, p {
+    color: white;
+}
+
+.jumbotron img {
+    width: 500px;
+    margin-bottom: 20px;
+}
+
+
+.btn {
+    border-radius: 0 !important;
+    padding-top: 5px !important;
+    background-color: #009a9a !important;
+    border: none !important;
+    font-weight: 500 !important;
+}
+
+.jumboback {
+    width: 750px;
+    padding: 50px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.7);
+    position: absolute;
+    top: 380px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+/* Middle Section */
+
+.the-middle {
+    height: 450px;
+    padding-top: 60px;
+}
+
+.middle h1 {
+    text-align: center;
+    margin-top: 20px;
+    color: #404040;
+    padding-bottom: 50px;
+}
+
+.fas {
+    padding-top: 20px;
+    padding-bottom: 15px;
+    color: #00b4b4;
+
+}
+
+.services h1 {
+    font-size: 1.5em;
+    text-align: center;
+    padding-top: 10px;
+    color: #404040;
+}
+
+.services p {
+    color: #404040;
+    font-size: 1em;
+    text-align: center;
+    font-weight: 400;
+}
+
+
+.bolded {
+    font-weight: 500;
+}
+
+/* below middle section */
+
+.below {
+    background-color: #ececec;
+    margin-top: 60px;
+    margin-bottom: 30px;
+}
+
+
+.image-left img {
+    max-width: 100%;
+}
+
+.side-area {
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.side-area h1 {
+    color: #404040;
+}
+
+.side-area p {
+    color: #404040;
+}
+
+.side-area ul {
+    padding-top: 3%;
+}
+
+.side-area img {
+    width: 600px;
+}
+
+/* bottom section */
+.bottom-section {
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 80px;
+}
+
+.bottom-section h1 {
+    font-size: 38px;
+    padding-bottom: 30px;
+}
+
+
+
+/* footer */
+footer {
+    background-color: #404040;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+footer img {
+    width: 75%;
+    padding-bottom: 10px;
+}
+
+footer ul li a {
+    color: white !important;
+    font-weight: 600;
+}
+
+
+.foot-head {
+    font-weight: 600;
+}
+
+.very-bottom {
+    background-color: #080808;
+}
+
+.very-bottom p {
+    text-align: center;
+    padding-top: 15px;
+}
+
+.very-bottom {
+    margin-bottom: 0;
+}
+
