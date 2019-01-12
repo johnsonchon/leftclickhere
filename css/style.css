@@ -14,10 +14,11 @@ html, body {
 .navbar-nav a {
     color: white !important;
     font-weight: 600;
+    font-size: 14px;
 }
 
 .jumbotron {
-    background-image: url("../images/fiber.jpg");
+    background-image: url("../images/cloud.jpg");
     background-size: cover;
     height: 700px;
 
@@ -29,7 +30,7 @@ html, body {
 }
 
 .jumbotron img {
-    width: 500px;
+    width: 300px;
     margin-bottom: 20px;
 }
 
@@ -106,6 +107,7 @@ html, body {
 
 .image-left img {
     max-width: 100%;
+    object-fit: cover;
 }
 
 .side-area {
@@ -123,7 +125,8 @@ html, body {
 }
 
 .side-area ul {
-    padding-top: 3%;
+
+    padding-bottom: 5%;
 }
 
 .side-area img {
